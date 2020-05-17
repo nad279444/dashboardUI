@@ -12,7 +12,7 @@ class App extends React.Component{
           <div className="col-sm-4">
             <Sidebar/>
           </div>
-          <div className="col-sm-8">
+          <div className="col-sm-8 main">
             <MainContent/>
           </div>
         </div>

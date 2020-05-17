@@ -1,7 +1,108 @@
 .aside{
     background-color: rgb(146, 109, 172);
-    padding: 7px;
+    padding-right: 7px;
     
 }
+.icon{
+    margin-top: 20px;
 
+}
+.box1{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10%;
+    background-color: rgb(235, 85, 110);
+    color: white;
 
+}
+.box2{
+    
+    border: 1px solid white;
+    height: 30px;
+    margin-right: 5px;
+    margin-left: 5px;
+    color:blue;
+    background-color: rgb(202, 202, 216);
+    
+}
+.box3{
+    border: 1px solid white;
+    height: 30px;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: red;
+    background-color: rgb(221, 195, 195);
+
+}
+.line{
+    border: 1px solid black;
+    padding-right: 5rem;
+}
+
+.topicon{
+    margin-left: 2px;
+}
+
+.sidebox{
+    border: 1px solid white;
+    height: 7rem;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: white;
+    padding-top: 5px;
+}
+.bigbox{
+    border: 1px solid white;
+    margin-left: 20px;
+    background-color: white;
+    padding-top: 20px;
+}
+.main{
+    background-color:whitesmoke;
+}
+.mini{
+    border: 1px solid white;
+    color: blue;
+    margin-left: 2px;
+    padding: 2px;
+    background-color: rgb(216, 216, 221);
+}
+.bigi{
+    border: 1px solid white;
+    color:green;
+    margin-left: 4px;
+    padding: 2px;
+    background-color: rgb(199, 221, 199);
+}
+
+.minibox{
+    border: 1px solid black;
+    margin: 10px;
+    height: 70px;
+    border-radius: 10%;
+}
+.minx{
+    border: 1px solid indigo;
+    color: white;
+    margin-left: 2px;
+    padding: 2px;
+    background-color: indigo;
+}
+.bigx{
+    border: 1px solid red;
+    color:white;
+    margin-left: 4px;
+    padding: 2px;
+    background-color: red;
+
+}
+.man{
+    padding: 10px;
+}
+.row .minibox img{
+    width: 72px;
+    height: 70px;
+    margin-left: -15px;
+    border-radius: 10%;
+}
